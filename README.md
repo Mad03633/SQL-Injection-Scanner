@@ -15,6 +15,14 @@ python scan.py [URL]
 ```
 Replace [URL] with the actual URL of the target web application you want to scan.
 
+## Example
+```
+[+] Detected 1 forms on https://lichess.org.
+https://lichess.org
+https://lichess.org
+No SQL injection attack vulnerability detected
+```
+
 ## Configurations
 
 - Set the USER_AGENT variable in the script to your desired User-Agent string.
