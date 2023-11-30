@@ -16,6 +16,7 @@ python scan.py [URL]
 Replace [URL] with the actual URL of the target web application you want to scan.
 
 ## Example
+Output will be:
 ```
 [+] Detected 1 forms on https://lichess.org.
 https://lichess.org
